@@ -37,4 +37,6 @@ Last version to support iOS and keyboard emulation mode.
 Version 2.70 appears to be the last version to support button remapping, via the Remap tool.
 If using GamePad with a retro receiver (for example, with original NES console consider this version).
 
+## Other resources
 
+  * https://github.com/RetroPie/RetroPie-Setup/wiki/8Bitdo-Controller
