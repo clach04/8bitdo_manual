@@ -14,3 +14,8 @@ There is also firmware for retro receivers for us on original consoles.
   * current/new as of May 2019 latest is 4.20
   * legacy - 3.0
   * Original 2.x
+
+For updating firmware under Linux, see https://github.com/hughsie/8bitdo-firmware
+
+For Microsoft Windows and Apple MacOs see 8bitdo support and downloads.
+
