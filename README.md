@@ -19,6 +19,11 @@ For updating firmware under Linux, see https://github.com/hughsie/8bitdo-firmwar
 
 For Microsoft Windows and Apple MacOs see 8bitdo support and downloads.
 
+Firmware change logs:
+
+  * https://web.archive.org/web/20170520112357/http://www.8bitdo.com/snes30/firmware.html
+
+
 #### Current firmware 4.x
 
 recommended, most instructions and documentation online is for version 4.0 and later.
