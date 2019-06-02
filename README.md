@@ -2,6 +2,12 @@
 
 The missing manual, documentation for 8bitdo gamepad controllers (initial focus the NES30/N30/F30).
 
+So you have a 
+http://www.8bitdo.com/retro-receiver-nes-classic what's next?
+
+First thing is to flash the latest firmware.
+
+
 ## Firmware
 
 There is firmware for the game controller.
