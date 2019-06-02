@@ -67,6 +67,7 @@ If prompted for a PIN code, use 0000. Note this may only be for certain firmware
   * http://support.8bitdo.com/
       * http://download.8bitdo.com/Manual/Controller/N30+F30/ version 4 and legacy documents
       * http://download.8bitdo.com/Manual/Receiver/nes_classic/
+      * https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&RequestTimeout=500&calledFromFrame=N&application_id=7m%2FRN9p%2Fv8MKEPZXeG4UyQ%3D%3D&fcc_id=2AH7N-SNES30 fcc application for SNES30, documentation here is more detailed (not pretty v4.x firmware), translation appears to be from third party.
   * https://github.com/RetroPie/RetroPie-Setup/wiki/8Bitdo-Controller
   * https://github.com/recalbox/recalbox-os/wiki/8bitdo-on-recalbox-(EN) note instructions are for 2.x firmware
   * udev rules https://github.com/paalfe/mixedcontent/blob/master/udev_rules.d/99-8bitdo-bluetooth-controllers.rules
