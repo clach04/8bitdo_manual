@@ -8,8 +8,9 @@ http://www.8bitdo.com/retro-receiver-nes-classic what's next?
 First thing is to flash the latest firmware.
 
 
-The NES30 was later renamed to the N30.
+The NES30 was renamed after release to the N30.
 Same firmware/controls for N30/F30 and SN30/SF30.
+Even though the N30/F30 is discontinued, there are recent firmware updates.
 
 ## Firmware
 
