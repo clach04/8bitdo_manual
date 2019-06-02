@@ -46,6 +46,18 @@ Last version to support iOS and keyboard emulation mode.
 Version 2.70 appears to be the last version to support button remapping, via the Remap tool (provided in the same zip the 2.70 firmware is in).
 If using GamePad with a retro receiver (for example, with original NES console consider this version).
 
+## Connecting gamepad
+
+### USB cable
+
+With new firmware, can plug in USB cable and it will just work. Older firmware needs to have USB mode enabled.
+
+### Bluetooth pairing
+
+If prompted for a PIN code, use 0000. Note this may only be for certain firmware versions
+
+
+
 ## Other resources
 
   * http://support.8bitdo.com/
