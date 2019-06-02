@@ -39,7 +39,8 @@ If using GamePad with a retro receiver (for example, with original NES console c
 
 ## Other resources
 
-  * https://github.com/RetroPie/RetroPie-Setup/wiki/8Bitdo-Controller
+  * http://support.8bitdo.com/
+      * http://download.8bitdo.com/Manual/Controller/N30+F30/N30+F30_Manual_V4.pdf  * https://github.com/RetroPie/RetroPie-Setup/wiki/8Bitdo-Controller
   * https://github.com/recalbox/recalbox-os/wiki/8bitdo-on-recalbox-(EN) note instructions are for 2.x firmware
   * udev rules https://github.com/paalfe/mixedcontent/blob/master/udev_rules.d/99-8bitdo-bluetooth-controllers.rules
 
