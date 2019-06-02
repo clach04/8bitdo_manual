@@ -15,6 +15,9 @@ There is also firmware for retro receivers for us on original consoles.
 
 ### Retro receiver firmware
 
+No recommendations at this time, https://github.com/ClusterM/hakchi2/issues/257
+And consider gamepad controller firmware 2.70nto remap Turbo (L/R/X/Y) buttons via RemapTool.
+
 ### Controller firmware
 
   * current/new as of May 2019 latest is 4.20 - http://download.8bitdo.com/Firmware/Controller/N30+F30/
@@ -40,7 +43,7 @@ Last version to support iOS and keyboard emulation mode.
 
 #### Original 2.x
 
-Version 2.70 appears to be the last version to support button remapping, via the Remap tool.
+Version 2.70 appears to be the last version to support button remapping, via the Remap tool (provided in the same zip the 2.70 firmware is in).
 If using GamePad with a retro receiver (for example, with original NES console consider this version).
 
 ## Other resources
