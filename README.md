@@ -17,12 +17,12 @@ Even though the N30/F30 is discontinued, there are recent firmware updates.
 ## Firmware
 
 There is firmware for the game controller.
-There is also firmware for retro receivers for us on original consoles.
+There is also firmware for retro receivers for use on original consoles.
 
 ### Retro receiver firmware
 
-No recommendations at this time, https://github.com/ClusterM/hakchi2/issues/257
-And consider gamepad controller firmware 2.70nto remap Turbo (L/R/X/Y) buttons via RemapTool.
+No recommendations at this time, see https://github.com/ClusterM/hakchi2/issues/257
+And consider gamepad controller firmware 2.70 which allows to remap Turbo (L/R/X/Y) buttons via RemapTool. alternative is to start in Switch mode with latest firmware.
 
 ### Controller firmware
 
