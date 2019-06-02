@@ -1,6 +1,8 @@
-# 8bitdo_manual
+# 8bitdo manual
 
 The missing manual, documentation for 8bitdo gamepad controllers (initial focus the NES30/N30/F30).
+
+Latest version available from https://clach04.github.io/8bitdo_manual/
 
 So you have a 
 http://www.8bitdo.com/retro-receiver-nes-classic what's next?
