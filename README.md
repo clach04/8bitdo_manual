@@ -62,7 +62,38 @@ With new firmware, can plug in USB cable and it will just work. Older firmware n
 
 If prompted for a PIN code, use 0000. Note this may only be for certain firmware versions
 
+### LED Light(s) status
 
+1. Blue light flashing: Bluetooth disconnected.
+2. Solid Blue light: Bluetooth connected.
+3. Green light flashing: Battery charging.
+4. Green light off: Charging completed.
+5. Solid Red light: Battery low.
+6. No LED lights active: Power off or Sleep mode.
+
+### Controls
+
+To restore to factory settings hold down the START button for 8 seconds.
+
+#### Android (D-Input, default mode)
+
+Hold START for 1 second
+Blue LED flashes 1 time per second
+
+#### Windows (X-Input)
+
+START + X for 1 second  power on 
+Blue LED flashes 2 times per second
+
+#### macOS
+
+START +A for 1 second  power on 
+Blue LED flashes 3 times per second
+
+#### Nintendo Switch
+
+START + Y for 1 second  power on 
+Blue LED flashes 4 times per second
 
 ## Other resources
 
