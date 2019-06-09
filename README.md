@@ -60,7 +60,9 @@ With new firmware, can plug in USB cable and it will just work. Older firmware n
 
 ### Bluetooth pairing
 
-If prompted for a PIN code, use 0000. Note this may only be for certain firmware versions
+Enter Bluetooth pairing mode by pressing SELECT for 3 seconds.
+
+If prompted for a PIN code, use 0000. Note this may only be for certain firmware versions.
 
 ### LED Light(s) status
 
@@ -72,6 +74,12 @@ If prompted for a PIN code, use 0000. Note this may only be for certain firmware
 6. No LED lights active: Power off or Sleep mode.
 
 ### Controls
+
+Power On by pressing START (and optionally a button combination) for 1 second.
+
+Power Off by pressing START for 3 seconds.
+
+Enter Bluetooth pairing mode by pressing SELECT for 3 seconds.
 
 To restore to factory settings hold down the START button for 8 seconds.
 
