@@ -56,7 +56,7 @@ If using GamePad with a retro receiver (for example, with original NES console c
 
 ### USB cable
 
-With new firmware, can plug in USB cable and it will just work. Older firmware needs to have USB mode enabled.
+With new firmware, can plug in USB cable and it will be recognized as a gamepad. Older firmware needs to have USB mode enabled.
 
 ### Bluetooth pairing
 
@@ -81,7 +81,7 @@ Power Off by pressing START for 3 seconds.
 
 Enter Bluetooth pairing mode by pressing SELECT for 3 seconds.
 
-To restore to factory settings hold down the START button for 8 seconds.
+To restore to factory settings (or force power off) hold down the START button for 8 seconds.
 
 #### Android (D-Input, default mode)
 
@@ -104,6 +104,16 @@ START + Y for 1 second  power on
 Blue LED flashes 4 times per second
 DOWN+SELECT = Switch home button
 
+## Battery
+
+  * 480mAh Li-on battery, 18 hours play time
+  * 1-2 hours charging (via Micro USB cable)
+
+### Power saving
+
+  * Enters sleep mode if *not* connected via bluetooth after 1 minute
+  * Enters sleep mode if *connected* via bluetooth after 15 minutes
+  * Press start to wake up
 
 ## Other resources
 
