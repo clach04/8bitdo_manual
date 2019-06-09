@@ -102,6 +102,7 @@ Blue LED flashes 3 times per second
 
 START + Y for 1 second  power on 
 Blue LED flashes 4 times per second
+
 DOWN+SELECT = Switch home button
 
 ## Battery
