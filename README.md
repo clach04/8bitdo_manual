@@ -111,8 +111,8 @@ DOWN+SELECT = Switch home button
 
 ### Power saving
 
-  * Enters sleep mode if *not* connected via bluetooth after 1 minute
-  * Enters sleep mode if *connected* via bluetooth after 15 minutes
+  * Enters sleep mode if **not** connected via bluetooth after **1 minute**
+  * Enters sleep mode if **connected** via bluetooth after **15 minutes**
   * Press start to wake up
 
 ## Other resources
