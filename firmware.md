@@ -15,27 +15,27 @@ Note: Make sure the GamePad battery is NOT empty! If empty, use USB cable charge
     
 [Firmware v3.00 for Windows & MacOS](https://web.archive.org/web/20170520112357/http://download.8bitdo.com/Firmware/GamePad/bluetooth_firmware_V3.00.zip)
 
-1.Only the blue led turns on when power on, and led turns off when power off.
-2.Press and hold the SELECT button two seconds will enter pair mode(the LED will rapidly blink).
+1. Only the blue led turns on when power on, and led turns off when power off.
+2. Press and hold the SELECT button two seconds will enter pair mode(the LED will rapidly blink).
 
 2017-02-28
     
 [Firmware v2.71 for Windows & MacOS](https://web.archive.org/web/20170520112357/http://download.8bitdo.com/Firmware/GamePad/bluetooth_firmware_V2.71.zip)
 
-1.Enhanced the stability of the Bluetooth Automatic connection.
+1. Enhanced the stability of the Bluetooth Automatic connection.
 
 2016-10-26
     
 [Firmware v2.70 for Windows & MacOS](https://web.archive.org/web/20170520112357/http://download.8bitdo.com/Firmware/GamePad/bluetooth_firmware_V2.70.zip)
 
-1.Support remapping the buttons by the RemapTools on Gamepad Mode(Power on with START button).
+1. Support remapping the buttons by the RemapTools on Gamepad Mode(Power on with START button).
 *   NOTE: RemapTools runs on PC.
 
 2016-09-09
     
 [Firmware v2.69 for Windows & MacOS](https://web.archive.org/web/20170520112357/http://download.8bitdo.com/Firmware/GamePad/bluetooth_firmware_V2.69.zip)
 
-1.Support HID and SPP on mode 4(START+X).
+1. Support HID and SPP on mode 4(START+X).
 
 2016-08-06
     
