@@ -14,8 +14,8 @@ Note: Make sure the GamePad battery is NOT empty! If empty, use USB cable charge
 
 ##### Firmware 4.20
 
-*   1\. Fixed input lag issue when playing SUPER SMASH BROS.
-*   2\. Fixed the pop-up window error when using amiibo.
+1. Fixed input lag issue when playing SUPER SMASH BROS.
+2. Fixed the pop-up window error when using amiibo.
   
 
 ##### Firmware 4.10
@@ -35,14 +35,16 @@ Note: Make sure the GamePad battery is NOT empty! If empty, use USB cable charge
 
 ##### Firmware 4.0 represents a significant update to all 8Bitdo controllers. It changes the way they operate and offers additional support. 
 
-1\. There are now four unique modes:*   Android (D-Input, default mode) Hold START for 1 second, LEDs will blink once per cycle. 
+1. There are now four unique modes:
+*   Android (D-Input, default mode) Hold START for 1 second, LEDs will blink once per cycle. 
 *   Windows (X-Input): Hold START + X for 1 second, LED will blink twice per cycle.
 *   macOS: Hold START + A for 1 second, LED will blink three times per cycle
 *   Nintendo Switch: Hold START + Y for 1 second, LED will blink four times per cycle. 
+
 **Note**  
-\- When connecting a N30 to a Nintendo Switch in Switch Mode, DOWN+SELECT = Switch HOME button.  
-\- iCade mode and Keyboard mode are no longer active in Firmware 4.0, please download and install Legacy firmware for this functionality  
-\- Download the 4.0 manual from support.8bitdo.com for more details.
+- When connecting a N30 to a Nintendo Switch in Switch Mode, DOWN+SELECT = Switch HOME button.  
+- iCade mode and Keyboard mode are no longer active in Firmware 4.0, please download and install Legacy firmware for this functionality  
+- Download the 4.0 manual from support.8bitdo.com for more details.
 
 --------------------------------
 
