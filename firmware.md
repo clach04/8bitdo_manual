@@ -6,10 +6,10 @@ Note: Make sure the GamePad battery is NOT empty! If empty, use USB cable charge
 
 ##### Upgrade firmware from PC
 
-*   1\. Turn ON: Hold down START+L+R for 3 seconds. Green+Blue LED will be flashing.
-*   2\. Connect SNES30 with PC’s USB port with a USB cable.
-*   3\. Download the SNES30 upgrade software from official website and run update.exe file.
-*   4\. Select firmware file bluetooth\_firmware.dat and update.
+*   1. Turn ON: Hold down START+L+R for 3 seconds. Green+Blue LED will be flashing.
+*   2. Connect SNES30 with PC’s USB port with a USB cable.
+*   3. Download the SNES30 upgrade software from official website and run update.exe file.
+*   4. Select firmware file bluetooth\_firmware.dat and update.
 
 2017-03-20
     
@@ -59,7 +59,7 @@ Note: Make sure the GamePad battery is NOT empty! If empty, use USB cable charge
 2015-07-23
     
 [Firmware v2.62 for Windows & MacOS](https://web.archive.org/web/20170520112357/http://download.8bitdo.com/Firmware/GamePad/bluetooth_firmware_V2.62.zip)
-*   1\. Fixed the bug that it can't be used on Mac with keyboard mode(START+B or START+B+R).
+*   1. Fixed the bug that it can't be used on Mac with keyboard mode(START+B or START+B+R).
 
 2015-06-06
     
