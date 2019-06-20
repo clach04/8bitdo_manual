@@ -51,7 +51,7 @@ Last version to support iOS and keyboard emulation mode.
 
 #### Original 2.x
 
-Version 2.70 appears to be the last version to support button remapping, via the Remap tool (provided in the same zip the 2.70 firmware is in).
+Version 2.70 appears to be the last/only version to support button remapping, via the Remap tool (provided in the same zip the 2.70 firmware is in).
 If using GamePad with a retro receiver (for example, with original NES console consider this version).
 
 ## Connecting gamepad
