@@ -89,6 +89,12 @@ Note: Make sure the GamePad battery is NOT empty! If empty, use USB cable charge
 
 1. Disable sleep when FC30/NES30/SFC30/SNES30 connecting USB port.
 
+Firmware v2.66 for Windows & MacOS
+
+1. Fixed Wiimote mode(START+Y) unstable problem.
+2. Add Wiiu Pro mode (START+Y+R).
+
+
 2016-01-07
     
 [Firmware v2.65 for Windows & MacOS](https://web.archive.org/web/20170520112357/http://download.8bitdo.com/Firmware/GamePad/bluetooth_firmware_V2.65.zip)
