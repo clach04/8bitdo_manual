@@ -120,6 +120,13 @@ Note: Make sure the GamePad battery is NOT empty! If empty, use USB cable charge
     L = L  
     R = R
 
+
+Firmware v2.60
+
+1. Added the START + L mode (support RETRON5 console).
+
+Note: L + R + A + B as the Home key of the RETRON5 console.
+
 2015-05-19
     
 [Firmware v2.52 for Windows & MacOS](https://web.archive.org/web/20170520112357/http://download.8bitdo.com/Firmware/bluetooth_firmware_V2.52.zip)
