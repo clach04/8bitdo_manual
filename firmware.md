@@ -86,6 +86,7 @@ Note: Make sure the GamePad battery is NOT empty! If empty, use USB cable charge
 2015-05-19
     
 [Firmware v2.52 for Windows & MacOS](https://web.archive.org/web/20170520112357/http://download.8bitdo.com/Firmware/bluetooth_firmware_V2.52.zip)
+
 *   8Bitdo GamePad Firmware v2.52
-1.Modified Mode 2 (START+B+R) secondly key code. D-Pad change from arrow key to normally letter, in order work with emulator better.
-2.Added PC Joystick mode(power up START+R and connect to PC). D-Pad works as Joystick D-Pad, not a keyboard arrow key.
+1. Modified Mode 2 (START+B+R) secondly key code. D-Pad change from arrow key to normally letter, in order work with emulator better.
+2. Added PC Joystick mode(power up START+R and connect to PC). D-Pad works as Joystick D-Pad, not a keyboard arrow key.
