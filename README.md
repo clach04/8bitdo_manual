@@ -32,6 +32,8 @@ And consider gamepad controller firmware 2.70 which allows to remap Turbo (L/R/X
 
 NOTE SNES style pad SN30 uses the exact same (Windows) application and firmware data file for firmware version 4.20. I.e. `*.exe` and `*.dat` file in http://download.8bitdo.com/Firmware/Controller/SN30+SF30/SN30+SF30_Firmware_V4.20.zip is identical to the exe and dat file in http://download.8bitdo.com/Firmware/Controller/N30+F30/N30+F30_Firmware_V4.20.zip (just with a different name).
 
+[Firmware information](firmware.md)
+ 
 For updating firmware under Linux, see https://github.com/hughsie/8bitdo-firmware
 
 For Microsoft Windows and Apple MacOs see 8bitdo support and downloads.
