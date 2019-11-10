@@ -11,8 +11,15 @@ Note: Make sure the GamePad battery is NOT empty! If empty, use USB cable charge
 3. Download the SNES30 upgrade software from official website and run update.exe file.
 4. Select firmware file bluetooth\_firmware.dat and update.
 
+----------------
+
+#### Firmware versions
+   
 
 ##### Firmware 4.20
+
+ N30+F30_Firmware_V4.20  2019-05-17 19:40
+
 
 1. Fixed input lag issue when playing SUPER SMASH BROS.
 2. Fixed the pop-up window error when using amiibo.
@@ -20,21 +27,30 @@ Note: Make sure the GamePad battery is NOT empty! If empty, use USB cable charge
 
 ##### Firmware 4.10
 
+N30+F30_Firmware_V4.10  2018-05-23 19:15  320K  
+    
 *   Enhanced the stability of the Bluetooth pairing.
   
 
 ##### Firmware 4.02
+
+N30+F30_Firmware_V4.02 2017-12-26 00:10  307K  
+      
 
 *   Fixed input lag problem on Android mode(Press START button power on).
   
 
 ##### Firmware 4.01
 
+N30+F30_Firmware_V4.01  2017-09-06 23:53  303K  
+     
 *   Fixed input lag problem when used with other controllers.
   
 
 ##### Firmware 4.0 represents a significant update to all 8Bitdo controllers. It changes the way they operate and offers additional support. 
 
+N30+F30_Firmware_V4.00.  2017-05-23 04:18  308K  
+    
 1. There are now four unique modes:
 *   Android (D-Input, default mode) Hold START for 1 second, LEDs will blink once per cycle. 
 *   Windows (X-Input): Hold START + X for 1 second, LED will blink twice per cycle.
@@ -48,10 +64,15 @@ Note: Make sure the GamePad battery is NOT empty! If empty, use USB cable charge
 
 --------------------------------
 
+##### Firmware v3.00
+
 2017-03-20
     
 [Firmware v3.00 for Windows & MacOS](https://web.archive.org/web/20170520112357/http://download.8bitdo.com/Firmware/GamePad/bluetooth_firmware_V3.00.zip)
 
+
+N30+F30_Firmware_Legacy_V3.00 2017-05-19 04:49  311K  
+      
 1. Only the blue led turns on when power on, and led turns off when power off.
 2. Press and hold the SELECT button two seconds will enter pair mode(the LED will rapidly blink).
 
