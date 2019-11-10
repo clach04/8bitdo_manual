@@ -17,7 +17,7 @@ Even though the N30/F30 is discontinued, there are recent firmware updates.
 ## Firmware
 
   * There is firmware for the game controller.
-  * There is also firmware for retro receivers for use on original consoles.
+  * There is also firmware for retro receivers for use on original consoles (and also via USB cable on new hardware).
 
 ### Retro receiver firmware
 
