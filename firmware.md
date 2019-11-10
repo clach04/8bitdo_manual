@@ -1,3 +1,9 @@
+
+Retro receiver
+==============
+
+http://download.8bitdo.com/Firmware/Receiver/nes_classic/
+
 NES30/N30/F30/SNES30/SN30/SF30 GamePad Firmware
 ===============================================
 
